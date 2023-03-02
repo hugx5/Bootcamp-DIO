@@ -5,6 +5,8 @@ public class Calculadora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("===Bem vindo===");
+
         System.out.println("Digite o primeiro número: ");
         double num1 = scanner.nextDouble();
 
